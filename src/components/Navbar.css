@@ -116,7 +116,7 @@ button:hover{
         padding: 2rem 0;
       }
       .nav-links:hover{
-        background: aqua;
+        background: rgb(64, 66, 66);
         transition: none;
       }
 
@@ -131,7 +131,7 @@ button:hover{
         margin: auto;
         border-radius: 4px;
         width: 80%;
-        background: aqua;
+        background: rgb(64, 66, 66);
         text-decoration: none;
         color: #fff;
         font-size: 1.2rem;
@@ -146,6 +146,6 @@ button:hover{
 
       .menu-icons{
         font-size: 1.2rem;
-        color: #222;
+        color: rgb(64, 66, 66);
       }
 }

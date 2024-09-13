@@ -3,7 +3,7 @@
     text-align: center;
     padding: 20px;
     background-color: #f9f9f9;
-    height: 70vh;
+    height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -70,10 +70,6 @@
         margin: auto;
       }
 
-      .material-unico-container {
-        height: 90vh;
-
-      }
-      
+   
 }
 
