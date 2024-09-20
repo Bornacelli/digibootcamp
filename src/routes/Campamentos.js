@@ -1,6 +1,7 @@
 
 import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
+import Footer from "../components/Footer";
 
 
 function Campamentos (){
@@ -13,6 +14,8 @@ function Campamentos (){
         title = "Campamentos"
         btnClass = "hide"
         />
+
+        <Footer/>
         </>
     )
 }

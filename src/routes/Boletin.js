@@ -1,6 +1,7 @@
 import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 import BoletinForm from "../components/BoletinForm";
+import Footer from "../components/Footer";
 
 function Boletin (){
     return (
@@ -13,6 +14,7 @@ function Boletin (){
         btnClass = "hide"
         />
         <BoletinForm/>
+        <Footer/>
         </>
     )
 }

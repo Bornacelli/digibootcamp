@@ -1,5 +1,7 @@
 import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
+import BootcampCard from "../components/BootcampCard";
+import Footer from "../components/Footer";
 
 function Bootcamp (){
     return (
@@ -11,6 +13,8 @@ function Bootcamp (){
         title = "Bootcamps"
         btnClass = "hide"
         />
+        <BootcampCard></BootcampCard>
+        <Footer/>
         </>
     )
 }
